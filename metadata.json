@@ -1,0 +1,6 @@
+{
+  "name": "TripMind AI",
+  "description": "Personalized travel planning with thoughtful day-by-day itineraries, budget breakdowns, and curated destination inspiration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
